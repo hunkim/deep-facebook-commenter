@@ -1,6 +1,7 @@
 # deep-facebook-commenter-
 
 ## Simple outputs
+```
 Q: 이거 좋은 아이디어네요. 아마도 구글의 Word2Vec과 딥러닝이 사용된 것이겠죠?
 A: 정말 대단하네요 . 감사합니다 .
 
@@ -48,3 +49,4 @@ A: 와우 ! ! ! ! !
 Q: 코드를 보면 원래 gfs에 붙어 있는 파일을 분석하도록 되어 있는거 같은데 open source로 풀면서 그쪽 코드는 전부 빠져 있더라구요 google폴
 더가 사라진 ㅎㅎㅎ
 A: https : //cloud.google.com/products/machine-learning/써보진 # confusion_matrix
+```

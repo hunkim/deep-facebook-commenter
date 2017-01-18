@@ -54,3 +54,8 @@ Q: 코드를 보면 원래 gfs에 붙어 있는 파일을 분석하도록 되어
 더가 사라진 ㅎㅎㅎ
 A: https : //cloud.google.com/products/machine-learning/써보진 # confusion_matrix
 ```
+## chatbot results 
+```
+INFO:tensorflow:Results after 1210 steps (0.076 sec/batch): loss = 2.59845, recall_at_1 = 0.106146694215, recall_at_10 = 1.0, recall_at_2 = 0.200671487603, recall_at_5 = 0.505888429752.
+INFO:tensorflow:Results after 1220 steps (0.077 sec/batch): loss = 2.59781, recall_at_1 = 0.105942622951, recall_at_10 = 1.0, recall_at_2 = 0.20056352459, recall_at_5 = 0.506045081967.
+```

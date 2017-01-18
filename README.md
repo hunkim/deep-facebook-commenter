@@ -1,10 +1,10 @@
-# deep-facebook-commenter-
+# deep-facebook-commenter
 
 ## Reference models
 - https://github.com/hunkimForks/DeepQA
 - https://github.com/hunkimForks/chatbot-retrieval
 
-## Simple outputs
+## Simple outputs (DeepQA with maxlengh=50, epoch=30)
 ```
 Q: 이거 좋은 아이디어네요. 아마도 구글의 Word2Vec과 딥러닝이 사용된 것이겠죠?
 A: 정말 대단하네요 . 감사합니다 .

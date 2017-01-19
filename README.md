@@ -3,6 +3,7 @@
 ## Reference models
 - https://github.com/hunkimForks/DeepQA
 - https://github.com/hunkimForks/chatbot-retrieval
+- https://github.com/hunkimForks/tf_chatbot_seq2seq_antilm
 
 ## Simple outputs (DeepQA with maxlengh=50, epoch=30)
 ```
